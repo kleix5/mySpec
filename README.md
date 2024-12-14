@@ -1,0 +1,2 @@
+# mySpec
+study
